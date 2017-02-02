@@ -1,0 +1,476 @@
+[
+  {
+    "word": "啊o额iu鱼",
+    "shortcut": "aoe",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "aoeiuv",
+    "shortcut": "aoe",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "AoEiuV",
+    "shortcut": "aoe",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "aoeiuv@atd3.cn",
+    "shortcut": "atdyx",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "av020.",
+    "shortcut": "av",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "18054849472",
+    "shortcut": "dxk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "en456lian",
+    "shortcut": "en",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "aoeiuv020@gmail.com",
+    "shortcut": "gmail",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "6222024301083374239",
+    "shortcut": "gsk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "Iin",
+    "shortcut": "iin",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "020",
+    "shortcut": "lel",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "lin852en456lian",
+    "shortcut": "lin",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "13410721965",
+    "shortcut": "llk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "aoeiuv020@outlook.com",
+    "shortcut": "msyx",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "17768100635",
+    "shortcut": "ndx",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "6228480128388447475",
+    "shortcut": "nhk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "B14040417",
+    "shortcut": "nxh",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "18251887973",
+    "shortcut": "nyk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "490674483@qq.com",
+    "shortcut": "qqyx",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "490674483",
+    "shortcut": "qq",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "1741394335",
+    "shortcut": "qq",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "aoeiuv020@qq.com",
+    "shortcut": "qqayx",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "352227199510013033",
+    "shortcut": "sfz",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "13860323942",
+    "shortcut": "sj",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "951001",
+    "shortcut": "sr",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "13686479770",
+    "shortcut": "szk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "6228481542978365518",
+    "shortcut": "yhk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "q490674483@126.com",
+    "shortcut": "yx",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "110201400952300",
+    "shortcut": "zhk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "6226900512065190",
+    "shortcut": "zxk",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "7点",
+    "shortcut": "7d",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "拜拜",
+    "shortcut": "88",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "@",
+    "shortcut": "at",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "B超",
+    "shortcut": "bchao",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "CK",
+    "shortcut": "ck",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "C语言",
+    "shortcut": "cyuyan",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "DJ",
+    "shortcut": "dj",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "DNA",
+    "shortcut": "dna",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "Dr.",
+    "shortcut": "dr",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "哆啦A梦",
+    "shortcut": "duolaameng",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "℃",
+    "shortcut": "du",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "DVD",
+    "shortcut": "dvd",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "FBI",
+    "shortcut": "fbi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "GG",
+    "shortcut": "gege",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "K歌",
+    "shortcut": "kge",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "CM",
+    "shortcut": "limi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "LV",
+    "shortcut": "lv",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "MP3",
+    "shortcut": "mp3",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "OMG",
+    "shortcut": "omg",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "ORZ",
+    "shortcut": "orz",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "Q币",
+    "shortcut": "qbi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "QQ",
+    "shortcut": "qq",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "QQ号",
+    "shortcut": "qqhao",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "手机QQ",
+    "shortcut": "shoujiqq",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "SIM卡",
+    "shortcut": "simka",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "T恤",
+    "shortcut": "tixu",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "山口山",
+    "shortcut": "wow",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "U盘",
+    "shortcut": "youpan",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "α",
+    "shortcut": "alpha",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "β",
+    "shortcut": "beta",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "χ",
+    "shortcut": "chi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "Δ",
+    "shortcut": "delta",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "ε",
+    "shortcut": "epsilon",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "γ",
+    "shortcut": "gamma",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "λ",
+    "shortcut": "lambda",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "μ",
+    "shortcut": "mu",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "№",
+    "shortcut": "number",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "Ω",
+    "shortcut": "omega",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "ο",
+    "shortcut": "omicron",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "Φ",
+    "shortcut": "phi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "φ",
+    "shortcut": "phi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "π",
+    "shortcut": "pi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "ρ",
+    "shortcut": "rho",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "∑",
+    "shortcut": "sigma",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "σ",
+    "shortcut": "sigma",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "θ",
+    "shortcut": "theta",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "ξ",
+    "shortcut": "xi",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "ζ",
+    "shortcut": "zeta",
+    "frequency": "250",
+    "locale": null
+  },
+  {
+    "word": "喜+1",
+    "shortcut": "xijiayi",
+    "frequency": "250",
+    "locale": null
+  }
+]
